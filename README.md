@@ -36,5 +36,4 @@ titanic-survival-app/
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/titanic-survival-app.git
-   cd titanic-survival-app
+   git clone https:https://github.com/om-ganechari/CODESOFT-TASK---TITANIC-SURVIVAL-PREDICTION.git
