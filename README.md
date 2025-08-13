@@ -1,4 +1,4 @@
-🚢 Titanic Survival Prediction – Interactive Machine Learning App
+## 🚢 Titanic Survival Prediction – Interactive Machine Learning App
 
 This project predicts whether a passenger survived the Titanic disaster using **Machine Learning**.  
 It combines **data exploration, feature engineering, model building**, and **interactive web deployment** to make learning fun and practical.  
