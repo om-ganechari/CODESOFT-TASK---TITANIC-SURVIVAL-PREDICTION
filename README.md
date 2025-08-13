@@ -27,6 +27,11 @@ titanic-survival-app/
 
 ---
 
+##  Live Demo
+Check it out: [**Interactive Titanic Survival Predictor**](https://codesoft-task---titanic-survival-prediction-83t4m2tgpj4vpkkixr.streamlit.app/) – Live, online, and ready for action!
+
+-----
+
 ## 🛠 Tech Stack
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit  
